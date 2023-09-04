@@ -23,6 +23,6 @@
 - 👨‍💻 Actualmente, me encuentro explorando y mejorando mis habilidades en las tecnologías mencionadas.
 - 🌱 Siempre estoy abierto a aprender y crecer en el mundo de la programación.
 - 💬 ¡Pregúntame cualquier cosa sobre programación! Estoy aquí para ayudar y aprender junto a la comunidad.
-- 📫 Puedes contactarme a través de mi correo electrónico: [tuemail@gmail.com](mailto:tuemail@gmail.com)
+- 📫 Puedes contactarme a través de mi correo electrónico: [deortiz40@gmail.com](mailto:deortiz40@gmail.com)
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y contribuciones en GitHub. ¡No dudes en conectarte conmigo para colaboraciones o simplemente para charlar sobre tecnología!
